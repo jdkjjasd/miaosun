@@ -2,3 +2,9 @@ baseURL = 'https://jdkjjasd.github.io/miaosun/'
 languageCode = 'en-us'
 title = 'Miao Sun'
 theme = "Anatole"
+
+[params]
+title = "I'm Miao Sun"
+author = "Miao Sun"
+description = "Call me Maxwell"
+profilePicture = "images/profile.jpg"
