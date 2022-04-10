@@ -1,7 +1,7 @@
 baseURL = 'https://jdkjjasd.github.io/miaosun/'
 languageCode = 'en-us'
 title = 'Miao Sun'
-theme = "Anatole"
+theme = "Anatole" 
 
 [params]
 title = "I'm Miao Sun"
