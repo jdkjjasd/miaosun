@@ -13,6 +13,7 @@ displayMode = "dark"
 mainSections = []
 
 
+
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
@@ -24,7 +25,9 @@ title = "Github"
 url = "https://jdkjjasd.github.io/miaosun/"
 
 
-
+[params.math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 [menu]
 
@@ -35,13 +38,13 @@ url = "https://jdkjjasd.github.io/miaosun/"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Project"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "project"
+  url = "/project/"
 
   [[menu.main]]
-  name = "About"
+  name = "Post"
   weight = 300
-  identifier = "about"
-  url = "/about/"
+  identifier = "post"
+  url = "/post/"

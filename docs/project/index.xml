@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Miao Sun</title>
+    <link>https://jdkjjasd.github.io/miaosun/project/</link>
+    <description>Recent content in Projects on Miao Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2022 19:01:23 -0700</lastBuildDate><atom:link href="https://jdkjjasd.github.io/miaosun/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/project/</link>
+      <pubDate>Sat, 09 Apr 2022 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/project/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
