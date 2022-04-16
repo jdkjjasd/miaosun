@@ -12,3 +12,5 @@ menu: Project
 * The program was implemented using C++
 * The program checks game status(win, lose, tie) after each player or AI's move 
 * The AI was implemented using the minimax algorithm. Therefore the AI never loses (only win or tie)
+
+# [Click to Github](https://github.com/jdkjjasd/Tic-Tac-Toe)
