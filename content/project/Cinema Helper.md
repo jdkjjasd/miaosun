@@ -14,3 +14,5 @@ menu: Project
 * The program used smart_ptr to manage memory and avoid memory leaks 
 * The user could change any movie's schedule
 * The program has excellent formatted output to print all the movies' info, showtime, and rate
+
+# [Click to Github](https://github.com/jdkjjasd/Cinema-Helper)

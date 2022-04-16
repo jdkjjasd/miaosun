@@ -16,3 +16,5 @@ tag : ["Tensorflow"]
 * After loading files, the application shows students' info, including Name, Class, semester, and picture 
 * All the scores list in a ListBox to quickly check each test's score
 * The final grade is shown as a colored character. For example, A to C are black, D is orange, and F is red
+
+# [Click to Github](https://github.com/jdkjjasd/Grade-Calculator)
