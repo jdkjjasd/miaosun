@@ -9,7 +9,7 @@ menu: Project
 ---
 # Summary
 * A simple cinema movie management system to help a cinema manage movies schedule and compare the movie's ratings 
-* The program was implemented using 
+* The program was implemented using C++
 * The program was easy to add and delete movies 
 * The program used smart_ptr to manage memory and avoid memory leaks 
 * The user could change any movie's schedule

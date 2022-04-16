@@ -14,7 +14,7 @@
       
       <guid>https://jdkjjasd.github.io/miaosun/project/face-mask-detecter/</guid>
       
-        <description>Summary  Deployed an AI model to recognize whether a face on an image is wearing a mask The model was implemented using Tensorflow/Python The training data was collected from a public dataset was used to train the model The CNN was used The model achieves 97.5% accuracy on the validation/testing set after 15 times trainning  </description>
+        <description>Summary  Deployed an AI model to recognize whether a face on an image is wearing a mask The model was implemented using Tensorflow/Python The training data was collected from a public dataset was used to train the model The CNN was used The model achieves 97.5% accuracy on the validation/testing set after 15 times trainning  Click to Github </description>
       
     </item>
     
@@ -31,12 +31,23 @@
     
     <item>
       <title>Let&#39;s Boat</title>
-      <link>https://jdkjjasd.github.io/miaosun/project/lets-bat/</link>
+      <link>https://jdkjjasd.github.io/miaosun/project/lets-boat/</link>
       <pubDate>Thu, 20 May 2021 19:01:23 -0700</pubDate>
       
-      <guid>https://jdkjjasd.github.io/miaosun/project/lets-bat/</guid>
+      <guid>https://jdkjjasd.github.io/miaosun/project/lets-boat/</guid>
       
         <description>Summary  A local multiplayer boating game. Each player could control only one paddle from the boat The game&amp;rsquo;s goal is getting through teamwork to reach the terminus and elude obstacles The game was made by Unity and coding by C# The camera always follows and behind the player&amp;rsquo;s boat The paddle adds force and torque to the side of the boat to simulate natural boat movement  </description>
+      
+    </item>
+    
+    <item>
+      <title>Animal Crossing-Turnip Helper</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/animalcrossing-turniphelper/</link>
+      <pubDate>Sat, 01 May 2021 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/animalcrossing-turniphelper/</guid>
+      
+        <description>Summary   The program was implemented using C++  Click to Github </description>
       
     </item>
     
@@ -47,7 +58,7 @@
       
       <guid>https://jdkjjasd.github.io/miaosun/project/cinema-helper/</guid>
       
-        <description>Summary  A simple cinema movie management system to help a cinema manage movies schedule and compare the movie&amp;rsquo;s ratings The program was implemented using The program was easy to add and delete movies The program used smart_ptr to manage memory and avoid memory leaks The user could change any movie&amp;rsquo;s schedule The program has excellent formatted output to print all the movies&amp;rsquo; info, showtime, and rate  </description>
+        <description>Summary  A simple cinema movie management system to help a cinema manage movies schedule and compare the movie&amp;rsquo;s ratings The program was implemented using C++ The program was easy to add and delete movies The program used smart_ptr to manage memory and avoid memory leaks The user could change any movie&amp;rsquo;s schedule The program has excellent formatted output to print all the movies&amp;rsquo; info, showtime, and rate  </description>
       
     </item>
     
