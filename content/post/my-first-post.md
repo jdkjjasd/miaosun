@@ -16,5 +16,4 @@ menu: Post
 
 `print()`
 
-{{< bilibili src="//player.bilibili.com/player.html?aid=683346847&bvid=BV16S4y1A7MY&cid=579930130&page=1" >}}
 
