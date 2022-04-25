@@ -38,7 +38,6 @@ toc = true
 #### Shenyang, Liaoning, China
 * Major
     * Modern Music institute, Instrument Performance, Saxophone
-
 ***
 #### 09/2009 - 07/2012
 ## High School
@@ -47,3 +46,4 @@ toc = true
 ***
 ***
 ***
+

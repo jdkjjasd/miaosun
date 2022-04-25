@@ -15,3 +15,4 @@ menu: Project
 * The model achieves 97.5% accuracy on the validation/testing set after 15 times trainning
 
 # [Click to Github](https://github.com/jdkjjasd/Face-Mask-Detecter)
+
